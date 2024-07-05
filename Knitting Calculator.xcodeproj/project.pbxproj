@@ -14,6 +14,7 @@
 		87AE28462B9E5EEB008D7E21 /* Knitting_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AE28452B9E5EEB008D7E21 /* Knitting_CalculatorTests.swift */; };
 		87AE28502B9E5EEB008D7E21 /* Knitting_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AE284F2B9E5EEB008D7E21 /* Knitting_CalculatorUITests.swift */; };
 		87AE28522B9E5EEB008D7E21 /* Knitting_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AE28512B9E5EEB008D7E21 /* Knitting_CalculatorUITestsLaunchTests.swift */; };
+		87AE285F2B9E9733008D7E21 /* ProjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AE285E2B9E9733008D7E21 /* ProjectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		87AE284B2B9E5EEB008D7E21 /* Knitting CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Knitting CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		87AE284F2B9E5EEB008D7E21 /* Knitting_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knitting_CalculatorUITests.swift; sourceTree = "<group>"; };
 		87AE28512B9E5EEB008D7E21 /* Knitting_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knitting_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		87AE285E2B9E9733008D7E21 /* ProjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				87AE28342B9E5EE9008D7E21 /* Knitting_CalculatorApp.swift */,
 				87AE28362B9E5EE9008D7E21 /* ContentView.swift */,
+				87AE285E2B9E9733008D7E21 /* ProjectView.swift */,
 				87AE28382B9E5EEB008D7E21 /* Assets.xcassets */,
 				87AE283A2B9E5EEB008D7E21 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87AE285F2B9E9733008D7E21 /* ProjectView.swift in Sources */,
 				87AE28372B9E5EE9008D7E21 /* ContentView.swift in Sources */,
 				87AE28352B9E5EE9008D7E21 /* Knitting_CalculatorApp.swift in Sources */,
 			);
